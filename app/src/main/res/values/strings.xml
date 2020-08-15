@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KIDSY</string>
+    <string name="home">Online Learing And Entertainment </string>
+    <string name="homebtnbooks">Books</string>
+    <string name="homebtnnewspapers">News Papers</string>
+    <string name="homebtnentertainment">Entertainment</string>
+    <string name="homebtnorders">My Orders</string>
+
+</resources>
