@@ -5,5 +5,13 @@
     <string name="homebtnnewspapers">News Papers</string>
     <string name="homebtnentertainment">Entertainment</string>
     <string name="homebtnorders">My Orders</string>
+    <string name="buynow">Buy Now</string>
+    <string name="buynowprice">Price Details :</string>
+    <string name="buynowshipping">Shipping will calculate at next step </string>
+    <string name="buynowitems">Items :</string>
+    <string name="buynowamount">Amount payable :</string>
+    <string name="buynowbtncheck">Checkout</string>
+    <string name="buynowbtncancel">Cancel</string>
+
 
 </resources>
