@@ -23,6 +23,7 @@
             android:id="@+id/homelayout2"
             android:layout_width="match_parent"
             android:layout_height="120dp"
+            android:clickable="false"
             android:orientation="vertical">
 
             <TextView
