@@ -18,5 +18,16 @@
     <string name="gradebtn1213">Grade 12 - 13</string>
     <string name="othersbtn">Others</string>
     <string name="articlesbtn">Articles</string>
+    <string name="newspapername1">News Paper Name</string>
+    <string name="grade611">Grade 6 - 11</string>
+    <string name="newspaperreadnow">READ NOW</string>
+    <string name="grade15">Grade 1 - 5</string>
+    <string name="grade1213">Grade 12 - 13</string>
+    <string name="others">Others</string>
+    <string name="articles">Articles</string>
+    <string name="readnow">Read Now</string>
+    <string name="updatenewspaper">Update Newspaper Details</string>
+    <string name="newrpaperid">News Paper ID</string>
+
 
 </resources>
