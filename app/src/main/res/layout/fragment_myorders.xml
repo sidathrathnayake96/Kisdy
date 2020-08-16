@@ -8,8 +8,9 @@
     android:layout_marginTop="0dp"
     android:layout_marginRight="0dp"
     android:layout_marginBottom="0dp"
+    android:background="@drawable/myorder"
     android:orientation="vertical"
-    tools:context=".Myorders" >
+    tools:context=".Myorders">
 
     <TextView
 
@@ -34,15 +35,15 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="0dp"
         android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
         android:layout_marginRight="0dp"
         android:layout_marginBottom="0dp">
 
 
         <LinearLayout
 
-            android:id="@+id/paymentinfolayout2"
+            android:id="@+id/myorderlayout2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
@@ -54,6 +55,27 @@
             android:orientation="vertical">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/myordercard1"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+
+                />
+            <androidx.cardview.widget.CardView
+                android:id="@+id/myordercard2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+
+                />
+            <androidx.cardview.widget.CardView
+                android:id="@+id/myordercard3"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:layout_marginLeft="10dp"
@@ -63,17 +85,8 @@
 
                 />
 
-            <LinearLayout
-                android:id="@+id/layoutend"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:layout_marginStart="10dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginEnd="10dp"
-                android:layout_marginBottom="10dp"
-                android:orientation="horizontal">
-
-            </LinearLayout>
         </LinearLayout>
+
+
     </ScrollView>
 </LinearLayout>
