@@ -40,6 +40,7 @@
     <string name="deliverto">Delivery Address</string>
     <string name="deliverdate">Deliver Date</string>
     <string name="delivered">Delivered</string>
+    <string name="myorders">My Orders</string>
 
 
 </resources>

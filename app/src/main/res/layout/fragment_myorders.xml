@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/myorderlayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/orderlayout1"
-    tools:context=".Myorders"/>
+    android:layout_marginLeft="0dp"
+    android:layout_marginTop="0dp"
+    android:layout_marginRight="0dp"
+    android:layout_marginBottom="0dp"
+    android:orientation="vertical"
+    tools:context=".Myorders" >
+
+    <TextView
+
+        android:id="@+id/myorders"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp"
+        android:fontFamily="sans-serif-black"
+        android:orientation="horizontal"
+        android:shadowColor="#ffffff"
+        android:text="@string/myorders"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="35sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp">
+
+
+        <LinearLayout
+
+            android:id="@+id/paymentinfolayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="#D0FFFFFF"
+            android:isScrollContainer="true"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
