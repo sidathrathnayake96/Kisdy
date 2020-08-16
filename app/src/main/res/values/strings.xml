@@ -12,6 +12,11 @@
     <string name="buynowamount">Amount payable :</string>
     <string name="buynowbtncheck">Checkout</string>
     <string name="buynowbtncancel">Cancel</string>
-
+    <string name="newspapers">Choose a Category</string>
+    <string name="gradebtn15">Grade 1-5 </string>
+    <string name="gradebtn611">Grade 6 - 11</string>
+    <string name="gradebtn1213">Grade 12 - 13</string>
+    <string name="othersbtn">Others</string>
+    <string name="articlesbtn">Articles</string>
 
 </resources>
