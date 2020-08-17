@@ -12,6 +12,22 @@
     <string name="buynowamount">Amount payable :</string>
     <string name="buynowbtncheck">Checkout</string>
     <string name="buynowbtncancel">Cancel</string>
+    <string name="newspapers">Choose a Category</string>
+    <string name="gradebtn15">Grade 1-5 </string>
+    <string name="gradebtn611">Grade 6 - 11</string>
+    <string name="gradebtn1213">Grade 12 - 13</string>
+    <string name="othersbtn">Others</string>
+    <string name="articlesbtn">Articles</string>
+    <string name="newspapername1">News Paper Name</string>
+    <string name="grade611">Grade 6 - 11</string>
+    <string name="newspaperreadnow">READ NOW</string>
+    <string name="grade15">Grade 1 - 5</string>
+    <string name="grade1213">Grade 12 - 13</string>
+    <string name="others">Others</string>
+    <string name="articles">Articles</string>
+    <string name="readnow">Read Now</string>
+    <string name="updatenewspaper">Update Newspaper Details</string>
+    <string name="newspapername">News Paper Name</string>
     <string name="paymentinfo">Payment Informations</string>
     <string name="paymentinfoshipaddress">Shipping Address</string>
     <string name="paymentinfofirstname">First name</string>
@@ -41,6 +57,8 @@
     <string name="deliverdate">Deliver Date</string>
     <string name="delivered">Delivered</string>
     <string name="myorders">My Orders</string>
+    <string name="image">Image</string>
+    <string name="addnewspaper">Add News Paper</string>
 
 
 </resources>
