@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/p4"
+    android:orientation="vertical"
+    tools:context=".Newspapercategory">
+
+
+    <TextView
+        android:id="@+id/newspapers"
+        android:layout_width="400dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="650dp"
+        android:text="Choose A Category"
+        android:textColor="#C11808"
+        android:textSize="45dp"
+        android:textStyle="bold">
+    </TextView>
+
+    <Button
+        android:id="@+id/gradebtn15"
+        android:layout_width="253dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="-600dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="950dp"
+        android:background="@android:color/darker_gray"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/gradebtn15"
+        android:textSize="40dp"
+        android:textStyle="bold">
+    </Button>
+
+    <Button
+        android:id="@+id/gradebtn611"
+        android:layout_width="287dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="-900dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginBottom="-50dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/gradebtn611"
+        android:textSize="40dp"
+        android:textStyle="bold">
+    </Button>
+
+    <Button
+        android:id="@+id/gradebtn1213"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="85dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="930dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/gradebtn1213"
+        android:textSize="40dp"
+        android:textStyle="bold">
+    </Button>
+
+    <Button
+        android:id="@+id/othersbtn"
+        android:layout_width="253dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="-900dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="930dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/othersbtn"
+        android:textSize="40dp"
+        android:textStyle="bold">
+    </Button>
+
+    <Button
+        android:id="@+id/articlesbtn"
+        android:layout_width="253dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="-900dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="1000dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/articlesbtn"
+        android:textSize="40dp"
+        android:textStyle="bold">
+    </Button>
+
+
+</LinearLayout>
+
