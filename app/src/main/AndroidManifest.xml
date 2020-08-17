@@ -22,9 +22,7 @@
         <activity android:name=".Paymentinfo" />
         <activity android:name=".Mycart" />
 
-        <activity android:name=".Creditcard"/>
-        <activity android:name=".Paymentinfo" />
-        <activity android:name=".Mycart"/>
+
 
         <activity android:name=".MainActivity">
             <intent-filter>
