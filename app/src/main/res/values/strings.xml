@@ -27,7 +27,38 @@
     <string name="articles">Articles</string>
     <string name="readnow">Read Now</string>
     <string name="updatenewspaper">Update Newspaper Details</string>
-    <string name="newrpaperid">News Paper ID</string>
+    <string name="newspapername">News Paper Name</string>
+    <string name="paymentinfo">Payment Informations</string>
+    <string name="paymentinfoshipaddress">Shipping Address</string>
+    <string name="paymentinfofirstname">First name</string>
+    <string name="paymentinfolastname">Last name</string>
+    <string name="paymentinfoemail">Email</string>
+    <string name="paymentinfoaddress">Address</string>
+    <string name="paymentinfocountry">Country</string>
+    <string name="paymentinfopostalcode">Postal Code</string>
+    <string name="paymentinfophone">Phone number</string>
+    <string name="paymentinfoconfirm">Confirm above informations</string>
+    <string name="paymentbtncontinue">Continue to Shipping</string>
+    <string name="shipping">Shipping Details</string>
+    <string name="shippingto">Shipping to</string>
+    <string name="shippingmethod">Shipping Method</string>
+    <string name="shippingbtncontinue">Continue to Payment</string>
+    <string name="creditcard">Credit Card Details</string>
+    <string name="creditcardnumber">Credit Card Number</string>
+    <string name="creditcardowner">Card Owners Name</string>
+    <string name="creditcardexpire">Expiry Date</string>
+    <string name="creditcardmonth">MM</string>
+    <string name="creditcardyear">YYYY</string>
+    <string name="creditcardcode">Security Code</string>
+    <string name="creditcardcomplete">Complete Payment</string>
+    <string name="deliver">Deliver Book</string>
+    <string name="deliverorderid">Order ID</string>
+    <string name="deliverto">Delivery Address</string>
+    <string name="deliverdate">Deliver Date</string>
+    <string name="delivered">Delivered</string>
+    <string name="myorders">My Orders</string>
+    <string name="image">Image</string>
+    <string name="addnewspaper">Add News Paper</string>
 
 
 </resources>

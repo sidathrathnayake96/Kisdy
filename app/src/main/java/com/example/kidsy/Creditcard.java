@@ -6,19 +6,16 @@ import android.graphics.Paint;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class Mycart extends AppCompatActivity {
+public class Creditcard extends AppCompatActivity {
 
     TextView textView;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mycart);
+        setContentView(R.layout.activity_creditcard);
 
 
-
-        textView = findViewById(R.id.buynow);
+        textView = findViewById(R.id.creditcard);
         textView.setPaintFlags(textView.getPaintFlags() | Paint.UNDERLINE_TEXT_FLAG);
-
     }
 }

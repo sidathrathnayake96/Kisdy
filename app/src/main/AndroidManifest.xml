@@ -9,19 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".updatenewspaper"></activity>
+        <activity android:name=".addnewspaper"></activity>
+        <activity android:name=".updatenewspaper" />
         <activity android:name=".readnow" />
         <activity android:name=".Articles" />
         <activity android:name=".Others" />
-        <activity android:name=".grade12to13">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name=".grade12to13" />
         <activity android:name=".Grade6to11" />
         <activity android:name=".Grade1to5" />
+        <activity android:name=".Creditcard" />
+        <activity android:name=".Paymentinfo" />
         <activity android:name=".Mycart" />
         <activity android:name=".MainActivity">
             <intent-filter>
