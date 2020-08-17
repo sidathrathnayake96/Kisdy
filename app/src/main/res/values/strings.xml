@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">KIDSY</string>
+    <string name="home">Online Learing And Entertainment </string>
+    <string name="homebtnbooks">Books</string>
+    <string name="homebtnnewspapers">News Papers</string>
+    <string name="homebtnentertainment">Entertainment</string>
+    <string name="homebtnorders">My Orders</string>
+    <string name="buynow">Buy Now</string>
+    <string name="buynowprice">Price Details :</string>
+    <string name="buynowshipping">Shipping will calculate at next step </string>
+    <string name="buynowitems">Items :</string>
+    <string name="buynowamount">Amount payable :</string>
+    <string name="buynowbtncheck">Checkout</string>
+    <string name="buynowbtncancel">Cancel</string>
+    <string name="paymentinfo">Payment Informations</string>
+    <string name="paymentinfoshipaddress">Shipping Address</string>
+    <string name="paymentinfofirstname">First name</string>
+    <string name="paymentinfolastname">Last name</string>
+    <string name="paymentinfoemail">Email</string>
+    <string name="paymentinfoaddress">Address</string>
+    <string name="paymentinfocountry">Country</string>
+    <string name="paymentinfopostalcode">Postal Code</string>
+    <string name="paymentinfophone">Phone number</string>
+    <string name="paymentinfoconfirm">Confirm above informations</string>
+    <string name="paymentbtncontinue">Continue to Shipping</string>
+    <string name="shipping">Shipping Details</string>
+    <string name="shippingto">Shipping to</string>
+    <string name="shippingmethod">Shipping Method</string>
+    <string name="shippingbtncontinue">Continue to Payment</string>
+    <string name="creditcard">Credit Card Details</string>
+    <string name="creditcardnumber">Credit Card Number</string>
+    <string name="creditcardowner">Card Owners Name</string>
+    <string name="creditcardexpire">Expiry Date</string>
+    <string name="creditcardmonth">MM</string>
+    <string name="creditcardyear">YYYY</string>
+    <string name="creditcardcode">Security Code</string>
+    <string name="creditcardcomplete">Complete Payment</string>
+    <string name="deliver">Deliver Book</string>
+    <string name="deliverorderid">Order ID</string>
+    <string name="deliverto">Delivery Address</string>
+    <string name="deliverdate">Deliver Date</string>
+    <string name="delivered">Delivered</string>
+    <string name="myorders">My Orders</string>
+
+
+    //Registration
+    <string name="reg">Registration</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="pno">Phone number</string>
+    <string name="user">Username</string>
+    <string name="pwd1">Password</string>
+    <string name="pwd2">Confirm Password</string>
+    <string name="create">Create My Account</string>
+
+    //login
+    <string name="log">Log into My Account</string>
+    <string name="createA">Create Account</string>
+    <string name="login">Log In</string>
+
+    //Entertainment
+    <string name="ent">Entertainment</string>
+    <string name="quote">Quote of the Day</string>
+    <string name="cartoon">Cartoon Stories</string>
+    <string name="videos">Motivational Videos</string>
+
+    //Quote of the day
+    <string name="topic">Quote of the Day</string>
+    <string name="author"> Creator: Plato</string>
+    <string name="des">Many things can be gained to the life through reading </string>
+
+    //Cartoon Stories
+    <string name="carton">Cartoon Stories</string>
+
+    //Cartoon Story in Detail
+    <string name="story1">Story 1</string>
+    <string name="sauthor">Creator: Isamaj</string>
+    <string name="desc"> In this story We can learn that the Unity is he biggest Strength</string>
+
+</resources>
