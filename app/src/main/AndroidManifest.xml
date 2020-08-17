@@ -29,9 +29,7 @@
         <activity android:name=".grade12to13" />
         <activity android:name=".Grade6to11" />
         <activity android:name=".Grade1to5" />
-        <activity android:name=".Creditcard" />
-        <activity android:name=".Paymentinfo" />
-        <activity android:name=".Mycart" />
+        
 
 
 
