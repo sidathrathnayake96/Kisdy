@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private void moveTo(){
-        Intent intent=new Intent(MainActivity.this,Paymentinfo.class);
+        Intent intent=new Intent(MainActivity.this,Myorders.class);
         startActivity(intent);
     }
 }
