@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     private Button btn,btn5;
 
-    private Button btn;
 
     TextView textView;
 
