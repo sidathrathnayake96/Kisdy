@@ -19,8 +19,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
 
-
-    private Button btn,btn5;
+    private Button btn, btn5, button;
 
 
     TextView textView;
@@ -33,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         textView = findViewById(R.id.home);
         textView.setPaintFlags(textView.getPaintFlags() | Paint.UNDERLINE_TEXT_FLAG);
 
+        button = findViewById(R.id.homebtnentertainment);
         btn = findViewById(R.id.homebtnorders);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -41,24 +41,19 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-        btn5=(Button)findViewById(R.id.cartoon_btn);
-        btn5.setOnClickListener(new View.OnClickListener() {
+        button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent =new Intent(MainActivity.this,Entertainment.class);
+                Intent intent = new Intent(MainActivity.this, Entertainment.class);
                 startActivity(intent);
-
-                Toast toast1=Toast.makeText(getApplicationContext(),"Loading",Toast.LENGTH_SHORT);
-                toast1.setGravity(Gravity.BOTTOM|Gravity.CENTER,0,0);
-                toast1.show();
             }
         });
 
 
     }
-    private void moveTo(){
-        Intent intent=new Intent(MainActivity.this,Myorders.class);
+
+    private void moveTo() {
+        Intent intent = new Intent(MainActivity.this, Myorders.class);
         startActivity(intent);
     }
 }

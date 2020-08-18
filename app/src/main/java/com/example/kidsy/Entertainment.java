@@ -31,16 +31,16 @@ public class Entertainment extends AppCompatActivity {
             }
 
         });
-        btn5=(Button)findViewById(R.id.cartoon_btn);
+        btn5=findViewById(R.id.cartoon_btn_tag);
         btn5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent =new Intent(Entertainment.this,Cartoon.class);
+                Intent intent =new Intent(Entertainment.this, Cartoon.class);
                 startActivity(intent);
 
-                Toast toast1=Toast.makeText(getApplicationContext(),"Loading",Toast.LENGTH_SHORT);
+                /*Toast toast1=Toast.makeText(getApplicationContext(),"Loading",Toast.LENGTH_SHORT);
                 toast1.setGravity(Gravity.BOTTOM|Gravity.CENTER,0,0);
-                toast1.show();
+                toast1.show();*/
             }
         });
     }
