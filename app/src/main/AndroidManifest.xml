@@ -10,6 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+        <activity android:name=".CartoonDetails"></activity>
+        <activity android:name=".Cartoon" />
+        <activity android:name=".Quote" />
+        <activity android:name=".Entertainment" />
+        <activity android:name=".Login" />
+        <activity android:name=".Registration" />
+        <activity android:name=".Creditcard" />
+        <activity android:name=".Paymentinfo" />
+        <activity android:name=".Mycart" />
+
+
         <activity android:name=".addnewspaper"></activity>
         <activity android:name=".updatenewspaper" />
         <activity android:name=".readnow" />
@@ -18,11 +29,6 @@
         <activity android:name=".grade12to13" />
         <activity android:name=".Grade6to11" />
         <activity android:name=".Grade1to5" />
-        <activity android:name=".Creditcard" />
-        <activity android:name=".Paymentinfo" />
-        <activity android:name=".Mycart" />
-
-
 
         <activity android:name=".MainActivity">
             <intent-filter>
