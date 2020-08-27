@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">KIDSY</string>
+    <string name="home">Online Learing And Entertainment </string>
+    <string name="homebtnbooks">Books</string>
+    <string name="homebtnnewspapers">News Papers</string>
+    <string name="homebtnentertainment">Entertainment</string>
+    <string name="homebtnorders">My Orders</string>
+    <string name="buynow">Buy Now</string>
+    <string name="buynowprice">Price Details :</string>
+    <string name="buynowshipping">Shipping will calculate at next step </string>
+    <string name="buynowitems">Items :</string>
+    <string name="buynowamount">Amount payable :</string>
+    <string name="buynowbtncheck">Checkout</string>
+    <string name="buynowbtncancel">Cancel</string>
+    <string name="paymentinfo">Payment Informations</string>
+    <string name="paymentinfoshipaddress">Shipping Address</string>
+    <string name="paymentinfofirstname">First name</string>
+    <string name="paymentinfolastname">Last name</string>
+    <string name="paymentinfoemail">Email</string>
+    <string name="paymentinfoaddress">Address</string>
+    <string name="paymentinfocountry">Country</string>
+    <string name="paymentinfopostalcode">Postal Code</string>
+    <string name="paymentinfophone">Phone number</string>
+    <string name="paymentinfoconfirm">Confirm above informations</string>
+    <string name="paymentbtncontinue">Continue to Shipping</string>
+    <string name="shipping">Shipping Details</string>
+    <string name="shippingto">Shipping to</string>
+    <string name="shippingmethod">Shipping Method</string>
+    <string name="shippingbtncontinue">Continue to Payment</string>
+    <string name="creditcard">Credit Card Details</string>
+    <string name="creditcardnumber">Credit Card Number</string>
+    <string name="creditcardowner">Card Owners Name</string>
+    <string name="creditcardexpire">Expiry Date</string>
+    <string name="creditcardmonth">MM</string>
+    <string name="creditcardyear">YYYY</string>
+    <string name="creditcardcode">Security Code</string>
+    <string name="creditcardcomplete">Complete Payment</string>
+    <string name="deliver">Deliver Book</string>
+    <string name="deliverorderid">Order ID</string>
+    <string name="deliverto">Delivery Address</string>
+    <string name="deliverdate">Deliver Date</string>
+    <string name="delivered">Delivered</string>
+    <string name="myorders">My Orders</string>
+
+
+    //Books
+
+    <string name="btnPre">Pre-School</string>
+    <string name="BOOKS">BOOKS</string>
+    <string name="btn1">Grade 1-5</string>
+    <string name="btn6">Grade 6-11</string>
+    <string name="btnOther">Other</string>
+    <string name="Grade1">Grade 1-5</string>
+    <string name="btnGrd1Maths">Maths</string>
+    <string name="btnGrd1English">English</string>
+    <string name="btnGrd1Sinhala">Sinhala</string>
+    <string name="Grade6">Grade 6-11</string>
+    <string name="btnGrd6Maths">Maths</string>
+    <string name="btnGrd6English">English</string>
+    <string name="btnGrd6Science">Science</string>
+    <string name="btnGrd6History">History</string>
+    <string name="btnGrd6Geo">Geography</string>
+    <string name="Other">Other</string>
+    <string name="btnFiction">Fiction</string>
+    <string name="btnNFiction">Non-Fiction</string>
+    <string name="btnBio">Biographies</string>
+    <string name="btnPoetry">Non-Poetry</string>
+    <string name="PreMathBName1">Preschool Math Workbook</string>
+    <string name="PreMathAName1">Jhon Michel</string>
+    <string name="PreMathRead1">Description</string>
+    <string name="PreSchool">Pre-School</string>
+    <string name="btnPreMath">Maths</string>
+    <string name="btnPreEnglish">English</string>
+    <string name="btnPrePaint">Painting</string>
+    <string name="btnPreSocial">Social Science</string>
+    <string name="G1MathBookName1">Math Workbook</string>
+    <string name="txtG1MathAuthor1">SATHARA DESTRIBUTION</string>
+    <string name="txtG1MathPrice1">Rs.600.00</string>
+    <string name="G6MathBookName1">Grade 6 Math Workbook</string>
+    <string name="G6MathAuthorName1">Chriss McMullen</string>
+    <string name="PreMathBookName1">Preschool Math Workbook</string>
+    <string name="txtPreMathAuthor1">Jhone Michel</string>
+    <string name="txtPreMathPrice1">Rs.600.00</string>
+
+
+</resources>
